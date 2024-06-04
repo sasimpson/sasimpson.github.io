@@ -52,8 +52,7 @@ _October 2017 – November 2019_ (2 years)
 _October 2016 – March 2017_ (6 months)
 * Lead world class team of software developers to create a fully cloud scalable file system as a service solution.
 * Participated in executive level strategy sessions to plan out direction of organization and Rackspace Private Cloud.
-* Collaborated with compute development teams to help provide a managed Kubernetes solution for Rackspace Private
-Cloud.
+* Collaborated with compute development teams to help provide a managed Kubernetes solution for Rackspace Private Cloud.
 * Tested and vetted storage integrations with leading container technologies.
 * Tested and vetted leading commercial and open source storage technologies.
 

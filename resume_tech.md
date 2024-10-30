@@ -10,12 +10,19 @@ I am a software engineer with 25 years of experience in building, leading, and d
 * Tools and Technologies: Git, GitLab, CI/CD, Kubernetes, Docker, Helm, Jira, Confluence, PostgreSQL  
 * Cloud Computing: AWS, GCP, OpenStack, GitLab, GitHub
 
-### Experience  
+### Experience 
+
+##### SWIVEL, San Antonio, TX
+**Software Engineering Manager**
+Oct 2024 - Present
+
+* Responsible for Business Experience business unit engineering. All client and financial institution payments processed through our systems.
+
 ##### H-E-B LP, San Antonio, TX (Remote)  
 **Staff Software Engineer**  
 Dec 2022 - Oct 2024
 
-* Developed a fullstack React, Typescript, Python, and Go-based 3D application that accelerated product decisions by 5 times.  
+* Developed a fullstack React, Typescript, Python, and Go-based 3D application that accelerated product decisions by 5x.  
 * Developed a full featured roadmap and created business-value focused epics in a short timeframe for turnaround.  
 * Led and coached a development team in refinement of high level stories and epics into work items and tasks.  
 * Coached team members on agile and scrum best practices, led and participated in team code reviews.  
